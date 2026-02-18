@@ -22,7 +22,7 @@ if __name__ == '__main__':
     
     from app import app
     print("\n" + "="*50)
-    print("  🍪 BiscuitIQ is running!")
+    print("  GreenPath is running....")
     print("  Open your browser: http://localhost:5000")
     print("  Press Ctrl+C to stop")
     print("="*50 + "\n")
